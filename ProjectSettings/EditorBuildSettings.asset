@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Misc Scenes/Default.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Disclaimer.unity
+    guid: a306aaecd5b8ee44388880e3574b0ae1
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 829a86ba161cdd840842063447f41aab
+  - enabled: 1
+    path: Assets/Scenes/BackupWorking.unity
+    guid: 726d2fd52214f134584d8de1ccc1f2d7
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: f86d42e655f54a740b0ec8b860fdd215
+  - enabled: 0
+    path: Assets/Scenes/Misc Scenes/Lighting_Test.unity
+    guid: d080d1f4ecd6a6749bb12063b7a1fad5
+  m_configObjects: {}
